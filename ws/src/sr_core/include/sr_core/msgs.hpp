@@ -48,7 +48,7 @@ typedef struct {
     uint8_t radar_info;
 } radar_info_t;
 
-typedef struct {
+typedef struct frame_header {
     uint8_t sof = 0xa5;
     uint16_t data_length;
     uint8_t seq = 0x00;
