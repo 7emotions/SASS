@@ -1,5 +1,5 @@
-# SimReferee
-Simulated serial port referee system
+# SASS
+Serial Arbitration System Simulator
 
 ## How to Use
 
